@@ -4,10 +4,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.testspace</groupId>
-  <artifactId>sample-process-kjar</artifactId>
+  <artifactId>sampley</artifactId>
   <version>1.0.2-SNAPSHOT</version>
   <packaging>kjar</packaging>
-  <name>sample-process-kjar</name>
+  <name>sampley</name>
 
   <properties>
     <version.org.kie>7.57.0.Final</version.org.kie>
